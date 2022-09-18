@@ -1,6 +1,6 @@
 # IoT_iniciantes_USJT
 Projeto para curso de extensão IoT e edge computing para iniciantes na prática com microbit e Arduino.
-
+Universidade São Judas Tadeu - Grupo Ânima.
 
 Na imagem abaixo estão as conexões feitas no arduino e a programação em blocos. Para visuzlização das linhas de código, abra o arquivo Codigo_Sensor_de_Umidade_do_Solo.
 
